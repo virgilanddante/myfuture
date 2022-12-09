@@ -2,7 +2,7 @@
 
 To do app with future goals in mind
 
---Categories--
+--Categories--\
 Long Term: Blue
 Mid Term: Orange
 Short Term: Purple
